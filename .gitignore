@@ -1,0 +1,9 @@
+*.apk
+*.ipk
+*.o
+*.so
+*.log
+.DS_Store
+build_dir/
+staging_dir/
+bin/
